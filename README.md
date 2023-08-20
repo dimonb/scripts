@@ -1,1 +1,1 @@
-# scripts
+# Misc bash AI generated scripts
